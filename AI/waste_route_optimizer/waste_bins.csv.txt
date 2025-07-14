@@ -1,0 +1,4 @@
+Bin_ID,Latitude,Longitude,Zone
+1,-1.300,36.800,0
+2,-1.302,36.805,3
+...
